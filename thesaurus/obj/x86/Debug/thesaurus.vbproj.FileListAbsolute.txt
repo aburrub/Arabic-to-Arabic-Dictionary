@@ -1,0 +1,58 @@
+C:\Users\firas\Documents\Visual Studio 2010\Projects\thesaurus\thesaurus\bin\Debug\thesaurus.exe.config
+C:\Users\Yaser\Desktop\thesaurus\thesaurus\bin\Debug\thesaurus.accdb
+C:\Users\Yaser\Desktop\thesaurus\thesaurus\bin\Debug\thesaurus.exe.config
+C:\Users\Yaser\Desktop\thesaurus\thesaurus\bin\Debug\thesaurus.exe
+C:\Users\Yaser\Desktop\thesaurus\thesaurus\bin\Debug\thesaurus.pdb
+C:\Users\Yaser\Desktop\thesaurus\thesaurus\bin\Debug\thesaurus.xml
+C:\Users\Yaser\Desktop\thesaurus\thesaurus\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Yaser\Desktop\thesaurus\thesaurus\obj\x86\Debug\thesaurus.Form1.resources
+C:\Users\Yaser\Desktop\thesaurus\thesaurus\obj\x86\Debug\thesaurus.Resources.resources
+C:\Users\Yaser\Desktop\thesaurus\thesaurus\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Yaser\Desktop\thesaurus\thesaurus\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Yaser\Desktop\thesaurus\thesaurus\obj\x86\Debug\thesaurus.exe
+C:\Users\Yaser\Desktop\thesaurus\thesaurus\obj\x86\Debug\thesaurus.xml
+C:\Users\Yaser\Desktop\thesaurus\thesaurus\obj\x86\Debug\thesaurus.pdb
+C:\Users\yaburrub\Desktop\thesaurus\thesaurus\bin\Debug\thesaurus.exe.config
+C:\Users\yaburrub\Desktop\thesaurus\thesaurus\obj\x86\Debug\thesaurus.exe
+C:\Users\yaburrub\Desktop\thesaurus\thesaurus\obj\x86\Debug\thesaurus.xml
+C:\Users\yaburrub\Desktop\thesaurus\thesaurus\obj\x86\Debug\thesaurus.pdb
+C:\Users\yaburrub\Desktop\thesaurus\thesaurus\bin\Debug\thesaurus.accdb
+C:\Users\yaburrub\Desktop\thesaurus\thesaurus\bin\Debug\thesaurus.exe
+C:\Users\yaburrub\Desktop\thesaurus\thesaurus\bin\Debug\thesaurus.pdb
+C:\Users\yaburrub\Desktop\thesaurus\thesaurus\bin\Debug\thesaurus.xml
+C:\Users\yaburrub\Desktop\thesaurus\thesaurus\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\yaburrub\Desktop\thesaurus\thesaurus\obj\x86\Debug\thesaurus.Form1.resources
+C:\Users\yaburrub\Desktop\thesaurus\thesaurus\obj\x86\Debug\thesaurus.Resources.resources
+C:\Users\yaburrub\Desktop\thesaurus\thesaurus\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\yaburrub\Desktop\thesaurus\thesaurus\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\firas\Downloads\thesaurus\thesaurus\bin\Debug\thesaurus.exe.config
+C:\Users\firas\Downloads\thesaurus\thesaurus\obj\x86\Debug\thesaurus.exe
+C:\Users\firas\Downloads\thesaurus\thesaurus\obj\x86\Debug\thesaurus.xml
+C:\Users\firas\Downloads\thesaurus\thesaurus\obj\x86\Debug\thesaurus.pdb
+C:\Users\firas\Documents\Visual Studio 2010\Projects\thesaurus\thesaurus\obj\x86\Debug\thesaurus.exe
+C:\Users\firas\Documents\Visual Studio 2010\Projects\thesaurus\thesaurus\obj\x86\Debug\thesaurus.xml
+C:\Users\firas\Documents\Visual Studio 2010\Projects\thesaurus\thesaurus\obj\x86\Debug\thesaurus.pdb
+C:\Users\firas\Documents\Visual Studio 2010\Projects\thesaurus\thesaurus\bin\Debug\thesaurus.accdb
+C:\Users\firas\Documents\Visual Studio 2010\Projects\thesaurus\thesaurus\bin\Debug\thesaurus.exe
+C:\Users\firas\Documents\Visual Studio 2010\Projects\thesaurus\thesaurus\bin\Debug\thesaurus.pdb
+C:\Users\firas\Documents\Visual Studio 2010\Projects\thesaurus\thesaurus\bin\Debug\thesaurus.xml
+C:\Users\firas\Documents\Visual Studio 2010\Projects\thesaurus\thesaurus\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\firas\Documents\Visual Studio 2010\Projects\thesaurus\thesaurus\obj\x86\Debug\thesaurus.Form1.resources
+C:\Users\firas\Documents\Visual Studio 2010\Projects\thesaurus\thesaurus\obj\x86\Debug\thesaurus.Resources.resources
+C:\Users\firas\Documents\Visual Studio 2010\Projects\thesaurus\thesaurus\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\firas\Documents\Visual Studio 2010\Projects\thesaurus\thesaurus\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Yaser\Desktop\thesaurus\thesaurus\obj\x86\Debug\thesaurus.disRes.resources
+C:\Users\Yaser\Desktop\thesaurus\1\thesaurus\bin\Debug\thesaurus.accdb
+C:\Users\Yaser\Desktop\thesaurus\1\thesaurus\bin\Debug\thesaurus.exe.config
+C:\Users\Yaser\Desktop\thesaurus\1\thesaurus\bin\Debug\thesaurus.exe
+C:\Users\Yaser\Desktop\thesaurus\1\thesaurus\bin\Debug\thesaurus.pdb
+C:\Users\Yaser\Desktop\thesaurus\1\thesaurus\bin\Debug\thesaurus.xml
+C:\Users\Yaser\Desktop\thesaurus\1\thesaurus\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Yaser\Desktop\thesaurus\1\thesaurus\obj\x86\Debug\thesaurus.disRes.resources
+C:\Users\Yaser\Desktop\thesaurus\1\thesaurus\obj\x86\Debug\thesaurus.Form1.resources
+C:\Users\Yaser\Desktop\thesaurus\1\thesaurus\obj\x86\Debug\thesaurus.Resources.resources
+C:\Users\Yaser\Desktop\thesaurus\1\thesaurus\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Yaser\Desktop\thesaurus\1\thesaurus\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Yaser\Desktop\thesaurus\1\thesaurus\obj\x86\Debug\thesaurus.exe
+C:\Users\Yaser\Desktop\thesaurus\1\thesaurus\obj\x86\Debug\thesaurus.xml
+C:\Users\Yaser\Desktop\thesaurus\1\thesaurus\obj\x86\Debug\thesaurus.pdb
